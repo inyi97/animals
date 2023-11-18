@@ -2,4 +2,5 @@ Rusty
 Blue
 Scout
 Monty
-Moca
+Mocha
+George the Frog
